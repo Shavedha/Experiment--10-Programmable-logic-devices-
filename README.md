@@ -26,11 +26,11 @@ Figure -01 PROM
 5. End the module.
 
 ### PROGRAM 
-/*
+```
 Program for PROM 
 Developed by: Shavedha.Y
 RegisterNumber: 212221230095 
-*/
+```
 
 ```
 module ROM_code(out, addr, CS);
